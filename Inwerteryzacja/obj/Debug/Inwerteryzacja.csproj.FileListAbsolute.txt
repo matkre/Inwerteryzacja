@@ -1,0 +1,81 @@
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.exe.config
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.exe
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.pdb
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csprojAssemblyReference.cache
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\MainWindow.g.cs
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\SelectionMenu.g.cs
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\App.g.cs
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja_MarkupCompile.cache
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja_MarkupCompile.lref
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\MainWindow.baml
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\SelectionMenu.baml
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.g.resources
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.Properties.Resources.resources
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.GenerateResource.cache
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.CoreCompileInputs.cache
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.exe
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.pdb
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\InvView.g.cs
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\InvView.baml
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.CopyComplete
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\BaseView.g.cs
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\LoginBase.g.cs
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\BaseView.baml
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\LoginBase.baml
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\EditAddView.g.cs
+C:\Users\krenca.m\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\EditAddView.baml
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.exe.config
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.exe
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.pdb
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csprojAssemblyReference.cache
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\BaseView.g.cs
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\EditAddView.g.cs
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\LoginBase.g.cs
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\MainWindow.g.cs
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\SelectionMenu.g.cs
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\InvView.g.cs
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\App.g.cs
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja_MarkupCompile.cache
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja_MarkupCompile.lref
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\BaseView.baml
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\EditAddView.baml
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\LoginBase.baml
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\MainWindow.baml
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\SelectionMenu.baml
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\InvView.baml
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.g.resources
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.Properties.Resources.resources
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.GenerateResource.cache
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.CoreCompileInputs.cache
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.CopyComplete
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.exe
+D:\Pliki backup\Documents\Projekty\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.pdb
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.exe.config
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.exe
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\bin\Debug\Inwerteryzacja.pdb
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csprojAssemblyReference.cache
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\BaseView.g.cs
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\EditAddView.g.cs
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\LoginBase.g.cs
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\MainWindow.g.cs
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\SelectionMenu.g.cs
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\InvView.g.cs
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\App.g.cs
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja_MarkupCompile.cache
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja_MarkupCompile.lref
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\BaseView.baml
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\EditAddView.baml
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\LoginBase.baml
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\MainWindow.baml
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\SelectionMenu.baml
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\InvView.baml
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.g.resources
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.Properties.Resources.resources
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.GenerateResource.cache
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.CoreCompileInputs.cache
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.csproj.CopyComplete
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.exe
+C:\Users\krenca.m\Desktop\Inwerteryzacja\Inwerteryzacja\obj\Debug\Inwerteryzacja.pdb
